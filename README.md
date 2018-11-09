@@ -10,7 +10,7 @@ Integration with the socioeconomic status of the neighborhood where the crime ha
 
 This repository has files for
 
-Data Cleanup
-Data Visualization
-Data Modeling
-Projet Report (pdf with results)
+1) Data Cleanup
+2) Data Visualization
+3) Data Modeling
+4) Projet Report (pdf with results)
